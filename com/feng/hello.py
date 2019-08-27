@@ -4,4 +4,4 @@
 # Date: 2019/8/27
 
 print("hello world")
-print()
+print("fpc")
