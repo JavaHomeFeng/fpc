@@ -3,4 +3,4 @@
 # __author__ = "fpc"
 # Date: 2019/8/27
 
-$END$
+print("jiba")
